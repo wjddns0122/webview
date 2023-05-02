@@ -9,7 +9,8 @@
         android:icon="@mipmap/ic_launcher"
         android:roundIcon="@mipmap/ic_launcher_round"
 
-        android:label="SoreaAv"
+
+        android:label="소리아Av"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
@@ -23,6 +24,5 @@
         </activity>
 
 </application>
-
 
 </manifest>
